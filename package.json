@@ -22,18 +22,18 @@
   "description": "The base React Router Dom template for Create React App using Typescript.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Ermeso/cra-template-react-router-dom-typescript.git"
+    "url": "https://github.com/ermesonsampaio/cra-template-react-router-dom-typescript.git"
   },
   "license": "MIT",
   "engines": {
     "node": ">=10"
   },
   "bugs": {
-    "url": "https://github.com/Ermeso/cra-template-react-router-dom-typescript/issues"
+    "url": "https://github.com/ermesonsampaio/cra-template-react-router-dom-typescript/issues"
   },
   "files": [
     "template",
     "template.json"
   ],
-  "homepage": "https://github.com/Ermeso/cra-template-react-router-dom-typescript#readme"
+  "homepage": "https://github.com/ermesonsampaio/cra-template-react-router-dom-typescript#readme"
 }
