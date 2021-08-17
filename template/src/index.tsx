@@ -1,19 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { HomePage } from './pages/Home';
-import { PageTwo } from './pages/PageTwo';
 import reportWebVitals from './reportWebVitals';
-import { BrowserRouter, Switch, Route } from 'react-router-dom';
 
-import './index.css';
+import App from './App';
 
 ReactDOM.render(
-  <BrowserRouter>
-    <Switch>
-      <Route path="/" exact component={HomePage} />
-      <Route path="/page2" exact component={PageTwo} />
-    </Switch>
-  </BrowserRouter>,
+  <App />,
   document.getElementById('root')
 );
 
